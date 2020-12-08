@@ -1,5 +1,5 @@
 # EN.705.601
-JHU Applied Machine Learning with Erhan Guven
+JHU Applied Machine Learning with Erhan Guven Fall 2020.
 
 Grades:
 
