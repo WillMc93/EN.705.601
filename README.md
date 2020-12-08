@@ -5,7 +5,7 @@ Grades:
 
 * Assignment 01 - A
 
-* Assignment 02 - C (A4 is not "from scratch")
+* Assignment 02 - C (Part 4 is not from scratch)
 
 * Assignment 03 - B
 
