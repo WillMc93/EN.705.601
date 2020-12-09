@@ -1,6 +1,8 @@
 # EN.705.601
 JHU Applied Machine Learning with Erhan Guven Fall 2020.
 
+Some of the datasets used were too large for github.
+
 Grades:
 
 * Assignment 01 - A
